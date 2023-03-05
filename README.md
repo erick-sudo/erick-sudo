@@ -3,25 +3,15 @@
 A software developer looking forward to collaborate with Java and C++ programmers.
 And a DOM flare.
 ## My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=tyreldelton&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tyreldelton&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=erick-sudo&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=erick-sudo&theme=radical"/>|
 |---|---|
 
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=tyreldelton&count_private=true&show_icons=true&theme=cobalt"></a>
-  
-![Success Ahead](https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png)  
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=erick-sudo&count_private=true&show_icons=true&theme=cobalt"></a>
 
-### Languages and Tools:
+## Languages and Tools:
 
-### Reach out!
-
-<div>
-  <a href="https://www.facebook.com/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
-  <a href="https://twitter.com/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
-  <a href="https://www.instagram.com/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
-</div>
-
-<div>
+<div align="center">
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -38,3 +28,14 @@ And a DOM flare.
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
 </div>
+  
+![Success Ahead](https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png)  
+
+### Reach out!
+
+<div>
+  <a href="https://www.facebook.com/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
+  <a href="https://twitter.com/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
+  <a href="https://www.instagram.com/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+</div>
+
