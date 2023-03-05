@@ -2,6 +2,14 @@
 
 A software developer looking forward to collaborate with Java and C++ programmers.
 And a DOM flare.
+## My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=tyreldelton&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tyreldelton&theme=radical"/>|
+|---|---|
+
+
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=tyreldelton&count_private=true&show_icons=true&theme=cobalt">
+</a>
+</a>
 ![Success Ahead](https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png)
 ### Languages and Tools:
 
