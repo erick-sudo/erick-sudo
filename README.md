@@ -7,10 +7,10 @@ And a DOM flare.
 |---|---|
 
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=tyreldelton&count_private=true&show_icons=true&theme=cobalt">
-</a>
-</a>
-![Success Ahead](https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png)
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=tyreldelton&count_private=true&show_icons=true&theme=cobalt"></a>
+  
+![Success Ahead](https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png)  
+
 ### Languages and Tools:
 
 ### Reach out!
