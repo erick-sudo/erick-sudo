@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @erick-sudo
-
+<div style="display: flex; align-items: center">
+  <p style="width: 50%; font-weight: bolder;"><b style="font-size: 3em;color: black; text-shadow: 0.04em 0.04em 0.04em blue"> 👋 Hi, I’m @erick-sudo</b><br>
 A software developer looking forward to collaborate with Java and C++ programmers.
-And a DOM flare.
+And a DOM flare.</p>
+  <img style="height: 20vh" src="https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png">
+</div>
+
+
 ## My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=erick-sudo&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=erick-sudo&theme=radical"/>|
 |---|---|
@@ -9,33 +13,40 @@ And a DOM flare.
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=erick-sudo&count_private=true&show_icons=true&theme=cobalt"></a>
 
-## Languages and Tools:
 
-<div align="center">
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-  <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
+<div style="border: solid 1px; padding: 1em 2em; border-radius: 10px; background-color: black;" align="center">
+  <h3>Languages</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,ruby,js,html,css" />
+    </a>
+  </p>
+  <hr style="border: solid 1px magenta; ">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux,aws" />
+    </a>
+  </p>
+  <hr style="border: solid 1px magenta; ">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+    </a>
+  </p>
+  <hr style="border: solid 1px magenta; ">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,spring,visualstudio,git,kubernetes,docker,vim, androidstudio,dotnet,eclipse,heroku,jquery,ktor,matlab,nodejs,postman&perline=8" />
+    </a>
+  </p>
 </div>
-  
-![Success Ahead](https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png)  
 
+***
 ### Reach out!
 
 <div>
-  <a href="https://www.facebook.com/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
-  <a href="https://twitter.com/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
-  <a href="https://www.instagram.com/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+  <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+  <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+  <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
 </div>
 
