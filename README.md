@@ -1,5 +1,5 @@
-<div style="display: flex; align-items: center">
-  <p style="width: 50%; font-weight: bolder;"><b style="font-size: 3em;color: black; text-shadow: 0.04em 0.04em 0.04em blue"> 👋 Hi, I’m @erick-sudo</b><br>
+<div style="display: flex !important; align-items: center !important">
+  <p style="width: 50% !important; font-weight: bolder !important;"><b style="font-size: 3em !important;color: black !important; text-shadow: 0.04em 0.04em 0.04em orangered !important"> 👋 Hi, I’m @erick-sudo</b><br>
 A software developer looking forward to collaborate with Java and C++ programmers.
 And a DOM flare.</p>
   <img style="height: 20vh" src="https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png">
@@ -36,7 +36,7 @@ And a DOM flare.</p>
   <hr style="border: solid 1px magenta; ">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,spring,visualstudio,git,kubernetes,docker,vim, androidstudio,dotnet,eclipse,heroku,jquery,ktor,matlab,nodejs,postman&perline=8" />
+      <img src="https://skillicons.dev/icons?i=react,spring,visualstudio,git,kubernetes,docker,vim,androidstudio,dotnet,eclipse,heroku,jquery,ktor,matlab,nodejs,postman&perline=8" />
     </a>
   </p>
 </div>
