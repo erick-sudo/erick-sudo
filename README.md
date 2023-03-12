@@ -36,7 +36,7 @@ And a DOM flare.</p>
   <hr style="border: solid 1px magenta; ">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,spring,visualstudio,git,kubernetes,docker,vim,androidstudio,dotnet,eclipse,heroku,jquery,ktor,matlab,nodejs,postman&perline=8" />
+      <img src="https://skillicons.dev/icons?i=tailwind,react,spring,visualstudio,git,kubernetes,docker,vim,androidstudio,dotnet,eclipse,heroku,jquery,ktor,matlab,nodejs,postman&perline=8" />
     </a>
   </p>
 </div>
