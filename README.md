@@ -1,8 +1,9 @@
-<div style="display: flex !important; align-items: center !important">
-  <p style="width: 50% !important; font-weight: bolder !important;"><b style="font-size: 3em !important;color: black !important; text-shadow: 0.04em 0.04em 0.04em orangered !important"> 👋 Hi, I’m @erick-sudo</b><br>
+👋 Hi, I’m @erick-sudo  
 A software developer looking forward to collaborate with Java and C++ programmers.
-And a DOM flare.</p>
+And a DOM flare.
+<div>
   <img style="height: 20vh" src="https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png">
+  <img style="height: 40vh" src="./kali.svg">
 </div>
 
 
@@ -24,7 +25,7 @@ And a DOM flare.</p>
   <hr style="border: solid 1px magenta; ">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,aws" />
+      <img src="https://skillicons.dev/icons?i=linux,aws,kali" />
     </a>
   </p>
   <hr style="border: solid 1px magenta; ">
