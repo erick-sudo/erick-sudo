@@ -3,7 +3,7 @@ A software developer looking forward to collaborate with Java and C++ programmer
 And a DOM flare.
 <div>
   <img style="height: 20vh" src="https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png">
-  <img style="height: 40vh" src="./kali.svg">
+  <img style="height: 8vh; position: absolute; right: 0;" src="./kali.svg">
 </div>
 
 
