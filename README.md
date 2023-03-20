@@ -14,7 +14,7 @@ And a DOM flare.
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=erick-sudo&count_private=true&show_icons=true&theme=cobalt"></a>
 
-
+## Tech Stack
 <div style="border: solid 1px; padding: 1em 2em; border-radius: 10px; background-color: black;" align="center">
   <h3>Languages</h3>
   <p align="center">
