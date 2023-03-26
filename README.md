@@ -7,7 +7,7 @@ And a DOM flare.
 
 
 ## My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=erick-sudo&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=erick-sudo&theme=maroongold"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=erick-sudo&show_icons=true&count_private=true&theme=maroongold"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=erick-sudo&theme=maroongold"/>|
 |---|---|
 
 
