@@ -2,7 +2,7 @@
 A software developer looking forward to collaborate with Java and C++ programmers.
 And a DOM flare.
 <div align="right">
-  [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erick-sudo&repo=github_profile"/>
   <img style="height: 10vh" src="https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png">
 </div>
 
