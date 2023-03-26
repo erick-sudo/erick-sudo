@@ -7,13 +7,13 @@ And a DOM flare.
 
 
 ## My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=erick-sudo&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=erick-sudo&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=erick-sudo&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=erick-sudo&theme=maroongold"/>|
 |---|---|
 
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=erick-sudo&count_private=true&show_icons=true&theme=cobalt"></a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=erick-sudo&count_private=true&show_icons=true&theme=maroongold"></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-sudo&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-sudo&theme=maroongold"/>
 
 ## Tech Stack
 <div style="border: solid 1px; padding: 1em 2em; border-radius: 10px; background-color: black;" align="center">
