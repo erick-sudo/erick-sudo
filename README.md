@@ -1,9 +1,8 @@
 👋 Hi, I’m @erick-sudo  
 A software developer looking forward to collaborate with Java and C++ programmers.
 And a DOM flare.
-<div>
+<div align="right">
   <img style="height: 20vh" src="https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png">
-  <img style="height: 8vh; position: absolute; right: 0;" src="./kali.svg">
 </div>
 
 
@@ -13,6 +12,8 @@ And a DOM flare.
 
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=erick-sudo&count_private=true&show_icons=true&theme=cobalt"></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-sudo&theme=dark"/>
 
 ## Tech Stack
 <div style="border: solid 1px; padding: 1em 2em; border-radius: 10px; background-color: black;" align="center">
