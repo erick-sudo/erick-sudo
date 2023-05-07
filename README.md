@@ -1,6 +1,6 @@
 👋 Hi, I’m @erick-sudo  
-A software developer looking forward to collaborate with Java and C++ programmers.
-And a DOM flare.
+# Cloud Architect
+****
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=erick-sudo&repo=codelab"/>
   <img style="height: 10vh" src="https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png">
