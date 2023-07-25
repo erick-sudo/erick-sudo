@@ -44,6 +44,8 @@
   </p>
 </div>
 
+<img src="https://skillicons.dev/icons?i=tailwind" />
+
 ***
 ### Reach out!
 
