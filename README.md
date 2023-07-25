@@ -44,7 +44,7 @@
   </p>
 </div>
 
-<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=django" />
 
 ***
 ### Reach out!
