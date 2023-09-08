@@ -1,11 +1,6 @@
 👋 Hi, I’m @erick-sudo  
 # Cloud Architect
 ****
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erick-sudo&repo=codelab"/>
-  <img style="height: 10vh" src="https://cdn.pixabay.com/photo/2015/03/06/09/28/earth-661447_960_720.png">
-</div>
-
 
 ## My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=erick-sudo&show_icons=true&count_private=true&theme=maroongold"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=erick-sudo&theme=maroongold"/>|
