@@ -2,6 +2,9 @@
 
 🚀 Software Engineer | Passionate about building scalable and innovative solutions. 💻 | Open-source enthusiast | Lifelong learner 📚 | Let's code the future together! 🌐
 
+## Counter
+Octokit counter beeped 0 times
+
 
 ****
 <img src="https://github-readme-stats.vercel.app/api?username=erick-sudo&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=erick-sudo"/>|
