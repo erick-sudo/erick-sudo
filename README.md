@@ -1,16 +1,16 @@
-```ts
+<!-- ```ts
   ___      ____     _    _   _        _    _
  / _ \    | __ )   | |  | |  \ \    / /   / \
 | | | |   |  _ \   | |  | |    \ \ / /   / _ \
 | |_| |   | |_) |  | |__| |      \ /    / / \ \
  \___/    |____/    \____/       |_|   /_/   \_\
   ERICK
-```
+``` -->
 
 🚀 | Software Engineer Passionate about building scalable and innovative solutions.  
 💻 | Open-source enthusiast  
 🌐 | Lifelong learner  
-📚 | Let's code the future together!  
+📚 | Let's code the future together!
 
 ## Octokit
 
@@ -24,6 +24,7 @@ Octokit counter beeped <!-- boop-counter -->10<!-- boop-counter --> times
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=erick-sudo&count_private=true&show_icons=true"></a>
 
 #### Stack
+
 <div style="border: solid 1px; padding: 1em 2em; border-radius: 10px; background-color: black;" align="center">
   <p align="center">
     <a href="https://skillicons.dev">
